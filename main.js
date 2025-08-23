@@ -40,5 +40,14 @@
 // const OutPut = require('./src/Fibonacci.js');
 // OutPut.Check();
 
+
 // const OutPut = require('./src/Sum_Numbers_Array.js');
 // OutPut.Check([1,2,3,4]);
+
+
+// const OutPut = require('./src/Multiplication_Table.js');
+// OutPut.Check(5);
+
+
+const OutPut = require('./src/Divisible_By_Five.js');
+OutPut.Check();
