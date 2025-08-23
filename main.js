@@ -39,3 +39,6 @@
 
 // const OutPut = require('./src/Fibonacci.js');
 // OutPut.Check();
+
+// const OutPut = require('./src/Sum_Numbers_Array.js');
+// OutPut.Check([1,2,3,4]);
