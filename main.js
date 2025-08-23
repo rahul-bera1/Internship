@@ -77,3 +77,7 @@
 
 // const OutPut = require('./src/23_Print_Even.js');
 // OutPut.Check();
+
+
+// const OutPut = require('./src/25_Check_Array_Even.js');
+// OutPut.Check([1,2,3,4,5,6]);
