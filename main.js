@@ -55,3 +55,7 @@
 
 // const OutPut = require('./src/Max_Min_In_Array.js');
 // OutPut.Check([1,2,3,4,5,6]);
+
+
+// const OutPut = require('./src/Palindrome.js');
+// OutPut.Check("malam");
