@@ -49,5 +49,5 @@
 // OutPut.Check(5);
 
 
-const OutPut = require('./src/Divisible_By_Five.js');
-OutPut.Check();
+// const OutPut = require('./src/Prime_Exist_in_array.js');
+// OutPut.Check([1,2,3,4,5,6]);
