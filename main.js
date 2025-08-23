@@ -28,5 +28,14 @@
 // const OutPut = require('./src/Reverse_Elements.js');
 // OutPut.Check([1,3,4,5,6,]);
 
+
 // const OutPut = require('./src/Check_Number_Exists.js');
 // OutPut.Check([1,3,4,15,5,6,]);
+
+
+// const OutPut = require('./src/Factorial.js');
+// OutPut.Check(3);
+
+
+// const OutPut = require('./src/Fibonacci.js');
+// OutPut.Check();
