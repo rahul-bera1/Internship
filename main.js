@@ -69,3 +69,7 @@
 
 // const OutPut = require('./src/21_Palindrome.js');
 // OutPut.Check("malam");
+
+
+// const OutPut = require('./src/22_Print_Odd.js');
+// OutPut.Check();
