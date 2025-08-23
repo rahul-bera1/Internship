@@ -73,3 +73,7 @@
 
 // const OutPut = require('./src/22_Print_Odd.js');
 // OutPut.Check();
+
+
+// const OutPut = require('./src/23_Print_Even.js');
+// OutPut.Check();
