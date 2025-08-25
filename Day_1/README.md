@@ -49,14 +49,3 @@ file.
 index.js. 
 25. Create a module to check if all elements in an array are even numbers. Import and 
 test it. 
-26. Create a module to check if all elements in an array are prime numbers. Import and 
-test it. 
-27. Write a module that separates odd and even numbers into two arrays. Import and 
-test it. 
-28. Create a module to count how many even numbers greater than 50 exist in an array. 
-Import it. 
-29. Write a module that displays only the prime numbers from a given array. Import and 
-test it. 
-30. Create a module to calculate the average of even and odd numbers separately in an 
-array. Import and test it. 
- 
